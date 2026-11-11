@@ -1,0 +1,12 @@
+{
+  "texto": {
+    "base_url": "https://unaj-aigw-ih24ukgp4wvd6.eastus2-01.ai.gateway.azure.com/default/models/openai/v1",
+    "model": "unaj-text",
+    "api_key": "<clave gateway entregada en privado>"
+  },
+  "voz": {
+    "region": "eastus2",
+    "model": "mai-transcribe-2-streaming",
+    "api_key": "<clave Speech entregada en privado>"
+  }
+}
