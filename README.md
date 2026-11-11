@@ -241,7 +241,7 @@ la clave privada. No uses las pruebas como prueba de funcionamiento de Azure.
 
 ## 10. Presupuesto del curso y errores frecuentes
 
-**Texto tiene un único límite COMPARTIDO del curso de USD 100 estimados al mes por
+**Texto tiene un único límite COMPARTIDO del curso de USD 30 estimados al mes por
 AI Gateway, no por alumno.** Es un control estimado post-respuesta:
 concurrencia, precios y datos de uso pueden causar sobrepaso.
 **NO es un techo exacto de factura.**
